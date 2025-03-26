@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Akhil Reghu  
+# 👋 Hey there! I'm Akhil Valluparambil  
 
 Welcome to my GitHub profile! I'm passionate about building cool projects and exploring new technologies. Here, you'll find some of my repositories, both public and private.
 
