@@ -1,18 +1,3 @@
-## Hi there 👋
-
-<!--
-**akhilreghu/akhilreghu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 # 👋 Hey there! I'm Akhil Reghu  
 
 Welcome to my GitHub profile! I'm passionate about building cool projects and exploring new technologies. Here, you'll find a mix of **public** and **private** repositories that I've been working on.
@@ -48,7 +33,3 @@ Here are some of my noteworthy repositories:
 🔗 [LinkedIn](https://www.linkedin.com/in/akhilreghu)  
 
 Thanks for visiting! 🚀✨
-
-
--->
-
