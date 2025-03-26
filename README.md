@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about building cool projects and ex
 
 ## 📫 How to Reach Me  
 💼 [Portfolio Website](https://akhilreghu.github.io)  
-📧 [Mail ](akhilreghu4161@gmail.com) <br>
+📧 [Mail ](mailto://akhilreghu4161@gmail.com) <br>
 🔗 [LinkedIn](https://www.linkedin.com/in/akhilvr)  
 
 Thanks for visiting! 🚀✨
